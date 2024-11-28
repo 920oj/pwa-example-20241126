@@ -1,39 +1,20 @@
-# pwa-example-20241126
+# 「Vue3で作ったWebサイトを Vite PWA でPWA化する方法 2024年版」サンプルコード
 
-This template should help get you started developing with Vue 3 in Vite.
+「Vue3で作ったWebサイトを Vite PWA でPWA化する方法 2024年版」のサンプルコードです。
 
-## Recommended IDE Setup
+## デモ
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+(TODO)
 
-## Type Support for `.vue` Imports in TS
+## セットアップ・開発サーバ立ち上げ
 
-TypeScript cannot handle type information for `.vue` imports by default, so we replace the `tsc` CLI with `vue-tsc` for type checking. In editors, we need [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) to make the TypeScript language service aware of `.vue` types.
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vite.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
 ```
-
-### Compile and Hot-Reload for Development
-
-```sh
+npm install
 npm run dev
 ```
 
-### Type-Check, Compile and Minify for Production
+## ビルド
 
-```sh
-npm run build
 ```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
+npm run build
 ```
